@@ -1,5 +1,4 @@
 # Forecast-demand-of-several-beachfront-restaurants
-# Beach Demand Forecasting
 
 This repository contains notebooks and code for forecasting beach demand using various techniques. The project aims to predict demand by removing seasonality, providing better accuracy than naive predictions.
 
